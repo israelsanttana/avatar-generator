@@ -1,1 +1,1 @@
-# avatar-generator
+# avatar-generator - link https://dicebear.com
